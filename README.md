@@ -1,4 +1,4 @@
-- 👋 Oii, me chamo Juliana, tenho 21 anos, gosto muito de tecnologia e me descobri profissionalmente no mundo na programação recentemente
+- 👋 Oii, me chamo Juliana, tenho 21 anos, gosto muito de tecnologia e me descobri profissionalmente no mundo da programação recentemente
 - 👩‍💻 Sou aspirante a desenvolvedora backend
 - 💻 Escolhi JavaScript como a primeira linguagem, estou aprendendo
 - 📫 Contato: https://www.linkedin.com/in/juliana-fazzio-06673918b/
