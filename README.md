@@ -1,4 +1,5 @@
-- 👋 Oii, me chamo Juliana, tenho 21 anos, gosto muito de tecnologia e me descobri profissionalmente no mundo da programação recentemente
+- 👋 Oii, me chamo Juliana, tenho 21 anos e moro no Rio de Janeiro, gosto muito de tecnologia e me descobri profissionalmente no mundo da programação recentemente.
+- ⭐ Faço parte da turma de Análise e Desenvolvimento de Sistemas da Faculdade Descomplica
 - 👩‍💻 Sou aspirante a desenvolvedora backend
 - 💻 Escolhi JavaScript como a primeira linguagem, estou aprendendo
 - 📫 Contato: https://www.linkedin.com/in/juliana-fazzio-06673918b/
