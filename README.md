@@ -1,5 +1,4 @@
 ## Olá, eu sou a Juliana Fazzio
-- 👋 Tenho 22 anos e moro no Rio de Janeiro, gosto muito de tecnologia e me descobri profissionalmente no mundo da programação recentemente.
 - ⭐ Faço parte da turma de Análise e Desenvolvimento de Sistemas da Faculdade Descomplica e faço cursos pela Alura.
 - 👩‍💻 Sou aspirante a desenvolvedora FullStack
 - 📚 Estou aprendendo JavaScript, HTML e CSS
