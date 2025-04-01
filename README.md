@@ -1,5 +1,5 @@
 ## Olá, eu sou a Juliana Fazzio
-- ⭐ Faço parte da turma de Análise e Desenvolvimento de Sistemas da Faculdade Descomplica e faço cursos pela Alura.
+- ⭐ Graduanda em Engenharia de Software.
 - 👩‍💻 Sou aspirante a desenvolvedora FullStack
 - 📚 Estou aprendendo JavaScript, HTML e CSS
 
