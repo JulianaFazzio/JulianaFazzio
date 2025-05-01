@@ -1,7 +1,5 @@
 ## Olá, eu sou a Juliana Fazzio
-- ⭐ Graduanda em Engenharia de Software.
-- 👩‍💻 Sou aspirante a desenvolvedora FullStack
-- 📚 Estou aprendendo JavaScript, HTML e CSS
+- ⭐ Graduanda em Engenharia de Software e formada em ADS.
 
 <div align="center">
   <a href="https://github.com/JulianaFazzio">
