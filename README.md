@@ -1,4 +1,6 @@
-## Olá, eu sou a Juliana Fazzio
+
+- ## Olá! 👋 Sou Juliana Fazzio
+- Bem-vindo(a) ao meu GitHub, aqui você encontrará meus projetos pessoais, estudos de programação e experimentos com código.
 - ⭐ Graduanda em Engenharia de Software e formada em ADS.
 
 <div align="center">
